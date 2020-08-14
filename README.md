@@ -1,7 +1,7 @@
 # Recalc : A React Calculator WebApp
 `Made this while learining React for the first time`
 
-##You can check this out [here](https://Sameer-Jha.github.io/Recalc)
+## You can check this out [here](https://Sameer-Jha.github.io/Recalc)
 
 ## Available Scripts
 
