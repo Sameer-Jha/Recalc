@@ -1,0 +1,9 @@
+#input_box{
+    width: 100vw;
+    height: 20vh;
+    font-size: 10vh;
+    text-align: end;
+    background-color: rgb(56, 51, 51);
+    color: slategrey;
+    margin: 0;
+}
